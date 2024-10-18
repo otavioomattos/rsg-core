@@ -59,7 +59,7 @@ RSGConfig.Player.PlayerDefaults = {
         }
     },
     metadata = {
-        health = 600,
+        health = 700,
         hunger = 100,
         thirst = 100,
         cleanliness = 100,
